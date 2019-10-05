@@ -1,0 +1,60 @@
+{
+    "fieldList": [
+        {
+            "id": 1,
+            "name": "RRN"            
+        },
+        {
+            "id": 2,
+            "name": "BEID"            
+        },
+        {
+            "id": 3,
+            "name": "PPSC"            
+        },
+        {
+            "id": 4,
+            "name": "MEAD"            
+        },
+        {
+            "id": 5,
+            "name": "SG"            
+        },
+        {
+            "id": 6,
+            "name": "JSX"
+        }
+    ],
+    "fieldListValue" : [
+        {
+            "id": 1,
+            "name": "RRN",
+            "value": "2345678"          
+        },
+        {
+            "id": 2,
+            "name": "BEID",
+            "value": "23456778"                    
+        },
+        {
+            "id": 3,
+            "name": "PPSC",
+            "value": "2396  6778"           
+        },
+        {
+            "id": 4,
+            "name": "MEAD",
+            "value": "114785214"             
+        },
+        {
+            "id": 5,
+            "name": "SG",
+            "value": "28074569"            
+        },
+        {
+            "id": 6,
+            "name": "JSX",
+            "value": "23431778" 
+        }
+    ]
+}
